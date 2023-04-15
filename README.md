@@ -19,5 +19,7 @@
   <img src="https://i.ibb.co/F6RBngj/335285033-3076833855950763-3477029458938922264-n.jpg" alt="335285033-3076833855950763-3477029458938922264-n" border="0" width="300px" height="300px" align="center" displa="block">
 </div>
 
-![MuaKissGIF](https://user-images.githubusercontent.com/98503935/232184453-2d57b809-6aa9-45d5-b561-c5b889b9fd16.gif)
+<hr>
 
+### :woman_technologist: About Me :
+🤔I'm a not only Web Developer but also Minecraft Developer & Creator
