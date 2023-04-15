@@ -5,7 +5,7 @@
 
 
 <div id="badges" align="center">
-  <b>Contact Me :</b>
+  <b font-size="32px">Contact Me :</b>
   <br>
   <a href="https://www.youtube.com/channel/UC-uz-s37T3h5Of8hxG58X7A">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
