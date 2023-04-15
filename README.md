@@ -16,6 +16,6 @@
 </h1>
 
 <div>
-  <a href="https://ibb.co/SNFKJR9"><img src="https://i.ibb.co/F6RBngj/335285033-3076833855950763-3477029458938922264-n.jpg" alt="335285033-3076833855950763-3477029458938922264-n" border="0" width="300px" height="300px"></a>
+  <a href="https://ibb.co/SNFKJR9"><img src="https://i.ibb.co/F6RBngj/335285033-3076833855950763-3477029458938922264-n.jpg" alt="335285033-3076833855950763-3477029458938922264-n" border="0" width="300px" height="300px" align="center"></a>
 </div>
 
