@@ -27,3 +27,7 @@
 - Now I'm 16 years old
 - Studying About Code & Network
 - I'm a Minecraft Player so I like to play and create my own servermc like spigot paper to play with my friends.
+
+<div id="not-footer" align="center">
+  <img src="https://user-images.githubusercontent.com/98503935/232184658-aec3b8ed-bef4-4e0a-8269-c2370691ac49.gif" width="100"/>
+</div>
