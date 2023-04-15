@@ -15,4 +15,4 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<a href="https://ibb.co/SNFKJR9"><img src="https://i.ibb.co/F6RBngj/335285033-3076833855950763-3477029458938922264-n.jpg" alt="335285033-3076833855950763-3477029458938922264-n" border="0"></a><br /><a target='_blank' href='https://usefulwebtool.com/math-keyboard'>vector symbol math</a><br />
+<a href="https://ibb.co/SNFKJR9"><img src="https://i.ibb.co/F6RBngj/335285033-3076833855950763-3477029458938922264-n.jpg" alt="335285033-3076833855950763-3477029458938922264-n" border="0" width="300px" height="300px"></a><br />
