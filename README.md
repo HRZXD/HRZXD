@@ -5,7 +5,7 @@
 
 
 <div id="badges" align="center">
-  <div font-size="200px">Contact Me :</div>
+  <div size="200px">Contact Me :</div>
   <br>
   <br>
   <a href="https://www.youtube.com/channel/UC-uz-s37T3h5Of8hxG58X7A">
