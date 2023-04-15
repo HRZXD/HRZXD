@@ -1,6 +1,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/98503935/232184658-aec3b8ed-bef4-4e0a-8269-c2370691ac49.gif" width="100"/>
 </div>
 
 
@@ -23,7 +24,6 @@
 
 ### :woman_technologist: About Me :
 🤔I'm a not only Web Developer but also Minecraft Developer & Creator
-- Now I'm 16 years old ![ToHotGIF](https://user-images.githubusercontent.com/98503935/232184658-aec3b8ed-bef4-4e0a-8269-c2370691ac49.gif)
-
+- Now I'm 16 years old
 - Studying About Code & Network
 - I'm a Minecraft Player so I like to play and create my own servermc like spigot paper to play with my friends.
