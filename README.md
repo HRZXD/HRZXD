@@ -11,9 +11,7 @@
   <a href="https://www.facebook.com/chayakorn.aree">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://www.facebook.com/chayakorn.aree">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
-  </a>
+  My Email:chayakorn251@gmail.com
 </div>
 
 <h1>
