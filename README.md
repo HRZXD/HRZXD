@@ -5,13 +5,14 @@
 
 
 <div id="badges" align="center">
+  Contact Me :
+  <br>
   <a href="https://www.youtube.com/channel/UC-uz-s37T3h5Of8hxG58X7A">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.facebook.com/chayakorn.aree">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  My Email:chayakorn251@gmail.com
 </div>
 
 <h1>
