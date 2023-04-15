@@ -13,4 +13,5 @@
 <h1>
   Hi There! I'm Haris
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://drive.google.com/file/d/1by2myaVALnAv2fyx4XefRNxV13zlEF_N/view?usp=sharing" width="150px" height="150px">
 </h1>
