@@ -11,11 +11,12 @@
 </div>
 
 <h1>
-  Hi There! I'm Haris
+  Hi There!! I'm Haris
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div>
-  <img src="https://i.ibb.co/F6RBngj/335285033-3076833855950763-3477029458938922264-n.jpg" alt="335285033-3076833855950763-3477029458938922264-n" border="0" width="300px" height="300px" align="center">
+  <img src="https://i.ibb.co/F6RBngj/335285033-3076833855950763-3477029458938922264-n.jpg" alt="335285033-3076833855950763-3477029458938922264-n" border="0" width="300px" height="300px" align="center" displa="block">
 </div>
+
 
