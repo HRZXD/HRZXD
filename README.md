@@ -6,12 +6,6 @@
   Hi There!! I'm Haris
 </h1>
 
-<div>
-  <img src="https://i.ibb.co/F6RBngj/335285033-3076833855950763-3477029458938922264-n.jpg" alt="335285033-3076833855950763-3477029458938922264-n" border="0" width="300px" height="300px" align="center" displa="block">
-</div>
-
-<hr>
-
 ### :woman_technologist: About Me :
 🤔I'm a not only Web Developer but also Minecraft Developer & Creator
 - Now I'm 16 years old
