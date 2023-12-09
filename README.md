@@ -6,7 +6,7 @@
   Hi There!! I'm Haris
 </h1>
 
-### :woman_technologist: About Me :
+### About Me :
 🤔I'm a not only Web Developer but also Minecraft Developer & Creator
 - Now I'm 17 years old
 - Studying About Code & Network
